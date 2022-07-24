@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer > span,
+.footer > a {
+  margin-right: 10px;
+  color: #582f0e;
+}
