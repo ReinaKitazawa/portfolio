@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e633b6bb.css",
-    "main.js": "/portfolio/static/js/main.dd5ae4c2.js",
+    "main.css": "/portfolio/static/css/main.f999547e.css",
+    "main.js": "/portfolio/static/js/main.9e5fb56e.js",
     "static/media/project_will.png": "/portfolio/static/media/project_will.853a403a00f59f04de23.png",
     "static/media/project_meme.png": "/portfolio/static/media/project_meme.a4b99d141233fda5d992.png",
-    "static/media/Resume_ReinaKitazawa.pdf": "/portfolio/static/media/Resume_ReinaKitazawa.f775a4f8a6fab807f60e.pdf",
+    "static/media/Resume_ReinaKitazawa.pdf": "/portfolio/static/media/Resume_ReinaKitazawa.c8d5286807726a77d8bb.pdf",
     "static/media/project_portfolio.png": "/portfolio/static/media/project_portfolio.d0da889f5320e46fc7e9.png",
     "static/media/smiley.png": "/portfolio/static/media/smiley.3fd45feb1aea0eea3cd0.png",
     "index.html": "/portfolio/index.html",
-    "main.e633b6bb.css.map": "/portfolio/static/css/main.e633b6bb.css.map",
-    "main.dd5ae4c2.js.map": "/portfolio/static/js/main.dd5ae4c2.js.map"
+    "main.f999547e.css.map": "/portfolio/static/css/main.f999547e.css.map",
+    "main.9e5fb56e.js.map": "/portfolio/static/js/main.9e5fb56e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e633b6bb.css",
-    "static/js/main.dd5ae4c2.js"
+    "static/css/main.f999547e.css",
+    "static/js/main.9e5fb56e.js"
   ]
 }
