@@ -3,8 +3,16 @@
   align-items: center;
   justify-content: center;
 }
-.footer > span,
-.footer > a {
-  margin-right: 10px;
+
+.footer a {
+  margin: 5px;
   color: #582f0e;
+  transition: 1s ease;
+}
+
+.footer a :hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  transition: 0.5s ease;
 }

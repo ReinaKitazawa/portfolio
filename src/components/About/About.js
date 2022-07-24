@@ -13,8 +13,8 @@ const About = () => {
         <h3>
           I am a recent graduate from web development school.
           <br />I enjoy coding and making applications that can make a
-          difference in peoples’ lives.I am passionate about learning new
-          things.
+          difference in peoples’ lives.
+          <br />I am passionate about learning new things.
         </h3>
         <a className="button" href={Pdf} target="_blank">
           Resume

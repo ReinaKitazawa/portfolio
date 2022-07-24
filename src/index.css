@@ -13,7 +13,7 @@ body {
 .container {
   margin: 6rem auto;
   text-align: center;
-  width: 70%;
+  width: 80%;
 }
 
 .button {
@@ -58,12 +58,13 @@ h2 {
   margin: 20px;
 }
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   margin: 30px 0px;
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 1rem;
+  margin: 0.2rem;
 }
 a {
   color: #582f0e;
