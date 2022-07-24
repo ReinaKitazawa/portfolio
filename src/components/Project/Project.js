@@ -26,7 +26,10 @@ const Project = () => {
             </a>
           </div>
         </a>
-        <a href="" className="project">
+        <a
+          href="https://reinakitazawa.github.io/portfolio/"
+          className="project"
+        >
           <h3>My portfolio</h3>
           <div className="pro-image">
             <img src={Pro2} alt="project2"></img>
@@ -43,7 +46,10 @@ const Project = () => {
             </a>
           </div>
         </a>
-        <a href="" className="project">
+        <a
+          href="https://reinakitazawa.github.io/meme-generator/"
+          className="project"
+        >
           <h3>Meme generator</h3>
           <div className="pro-image">
             <img src={Pro3} alt="project3"></img>
@@ -54,7 +60,9 @@ const Project = () => {
           </p>
           <div className="link">
             <span>React</span>
-            <GitHubIcon />
+            <a href="https://github.com/ReinaKitazawa/meme-generator">
+              <GitHubIcon />
+            </a>
           </div>
         </a>
       </div>
