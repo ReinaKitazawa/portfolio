@@ -53,7 +53,11 @@ h1 {
   margin-top: 20px;
 }
 h2 {
+<<<<<<< HEAD
   font-size: 1.7rem;
+=======
+  font-size: 1.5rem;
+>>>>>>> 2317aed32b0c01607a821a2bfe6ac58e7c1fa292
   text-align: center;
   margin: 20px;
 }
