@@ -4,12 +4,14 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import Pro1 from "./project_will.png";
 import Pro2 from "./project_portfolio.png";
 import Pro3 from "./project_meme.png";
+import Pro4 from "./project_todoapp.png";
 
 const Project = () => {
   return (
     <div className="container">
       <h2>PROJECTS</h2>
       <div className="projects" id="projects">
+        {/* project1  */}
         <a href="https://www.mywill-online.cyou/" className="project">
           <h3>Wille</h3>
           <div className="pro-image">
@@ -26,6 +28,7 @@ const Project = () => {
             </a>
           </div>
         </a>
+        {/* project2 */}
         <a
           href="https://reinakitazawa.github.io/portfolio/"
           className="project"
@@ -41,11 +44,14 @@ const Project = () => {
           </p>
           <div className="link">
             <span>React</span>
+
             <a href="https://github.com/ReinaKitazawa/my-portfolio">
               <GitHubIcon />
             </a>
           </div>
         </a>
+        {/* project3  */}
+
         <a
           href="https://reinakitazawa.github.io/meme-generator/"
           className="project"
@@ -61,6 +67,23 @@ const Project = () => {
           <div className="link">
             <span>React</span>
             <a href="https://github.com/ReinaKitazawa/meme-generator">
+              <GitHubIcon />
+            </a>
+          </div>
+        </a>
+        {/* project4  */}
+        <a href="https://reinakitazawa.github.io/todo-app/" className="project">
+          <h3>Todo app</h3>
+          <div className="pro-image">
+            <img src={Pro4} alt="project4"></img>
+          </div>
+          <p>
+            This is a simple todo app. You can add, delete each task and also
+            delete all tasks.
+          </p>
+          <div className="link">
+            <span>JavaScript</span>
+            <a href="https://github.com/ReinaKitazawa/todo-app">
               <GitHubIcon />
             </a>
           </div>
